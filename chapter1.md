@@ -1,11 +1,11 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introduction - Account Structure
+description : Get to know the main elements of a search advertising account. You will learn the difference between campaigns and ad groups, and get to know the main elements of an ad group (keywords, ads), and how they relate to the landing pages of your website.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 ---
-## A really bad movie
+## Campaigns vs. Ad Groups
 
 ```yaml
 type: MultipleChoiceExercise
@@ -16,12 +16,13 @@ key: f5872f32bc
 ```
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
+Which of the following settings need to be set at the campaign level? 
 
 `@instructions`
-- Long movies, clearly
-- Short movies, clearly
-- Long movies, but the correlation seems weak
-- Short movies, but the correlation seems weak
+- Daily budget, languages, bids
+- Devices, languages, bids
+- Daily budget, location, languages
+- Devices, final URLs, devices
 
 `@hint`
 Have a look at the plot. Do you see a trend in the dots?
